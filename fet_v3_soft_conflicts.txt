@@ -1,0 +1,9 @@
+﻿Soft conflicts of fet_v3.fet
+Generated with FET 5.29.6 on 12/13/16 4:12 PM
+
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
