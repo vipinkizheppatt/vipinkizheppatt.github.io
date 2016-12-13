@@ -9,10 +9,10 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="ME 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="ME"></Students><Room name="SH-3"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="ME 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-10"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -44,7 +44,7 @@
      
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="ME 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-10"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -64,10 +64,10 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="ME 204"></Subject><Activity_Tag name="Second Year Dept. Lect"></Activity_Tag><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1ME"></Students><Students name="2A2ME"></Students><Students name="2A3ME"></Students><Students name="2B1ME"></Students><Students name="2B2ME"></Students><Students name="2B3ME"></Students><Room name="LH-10"></Room>
     </Hour>
     <Hour name="10:35">
-     <Subject name="ME 204"></Subject><Activity_Tag name="Second Year Dept. Lect"></Activity_Tag><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1ME"></Students><Students name="2A2ME"></Students><Students name="2A3ME"></Students><Students name="2B1ME"></Students><Students name="2B2ME"></Students><Students name="2B3ME"></Students><Room name="LH-10"></Room>
+     
     </Hour>
     <Hour name="11:35">
      
@@ -119,7 +119,7 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:25">
-     <Subject name="ME 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="ME"></Students><Room name="SH-3"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
@@ -131,10 +131,10 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="ME 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-10"></Room>
+     
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="ME 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-10"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -156,10 +156,10 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="CE 314 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="CE"></Students>
     </Hour>
     <Hour name="11:35">
-     <Subject name="CE 314 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="CE"></Students>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -182,7 +182,7 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="CE 314"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -211,13 +211,13 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="CE 314 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="CE"></Students>
+     
     </Hour>
     <Hour name="10:35">
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="CE 314"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
+     <Subject name="CE 314 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="CE"></Students>
     </Hour>
     <Hour name="12:35">
      
@@ -237,7 +237,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     <Subject name="CE 314"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
@@ -269,7 +269,7 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="CE 314"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -450,25 +450,25 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="EE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-8"></Room>
     </Hour>
     <Hour name="11:35">
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Electronics Lab"></Room>
     </Hour>
     <Hour name="15:35">
      <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Electronics Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Electronics Lab"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -476,39 +476,39 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
-    </Hour>
-    <Hour name="10:35">
-     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students><Room name="TR-4"></Room>
-    </Hour>
-    <Hour name="11:35">
-     
-    </Hour>
-    <Hour name="12:35">
      <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
-    <Hour name="13:35">
+    <Hour name="10:35">
      
     </Hour>
+    <Hour name="11:35">
+     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+    </Hour>
+    <Hour name="12:35">
+     
+    </Hour>
+    <Hour name="13:35">
+     <Subject name="EE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-8"></Room>
+    </Hour>
     <Hour name="14:35">
-     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Electronics Lab"></Room>
+     
     </Hour>
     <Hour name="15:35">
      <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Electronics Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Electronics Lab"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="EE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-8"></Room>
+     
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students><Room name="TR-4"></Room>
     </Hour>
     <Hour name="11:35">
      
@@ -520,10 +520,10 @@
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-4"></Room>
     </Hour>
     <Hour name="15:35">
-     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students><Room name="TR-4"></Room>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -531,16 +531,16 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="09:25">
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="EE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -560,31 +560,31 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:25">
-     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="10:35">
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-4"></Room>
+     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Electronics Lab"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Electronics Lab"></Room>
     </Hour>
     <Hour name="13:35">
-     <Subject name="EE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-8"></Room>
-    </Hour>
-    <Hour name="14:35">
      
     </Hour>
+    <Hour name="14:35">
+     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students><Room name="TR-4"></Room>
+    </Hour>
     <Hour name="15:35">
-     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Electronics Lab"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Electronics Lab"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -597,7 +597,7 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="CS 306"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CSE"></Students><Room name="LT-6"></Room>
     </Hour>
     <Hour name="11:35">
      
@@ -661,7 +661,7 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="CS 306"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CSE"></Students><Room name="LT-6"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -670,10 +670,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="CS 306 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="CS 306 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -728,10 +728,10 @@
      
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="CS 306 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="CS 306 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -770,7 +770,7 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="CB 202"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -799,7 +799,7 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="CB 202"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -906,15 +906,15 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="CE 202 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="2B1CE"></Students><Students name="2B2CE"></Students><Students name="2B3CE"></Students>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="CE 202 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="2B1CE"></Students><Students name="2B2CE"></Students><Students name="2B3CE"></Students>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="08:25">
-     
+     <Subject name="CE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -932,21 +932,21 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="CE 202 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="2A1CE"></Students><Students name="2A2CE"></Students><Students name="2A3CE"></Students>
+     
     </Hour>
     <Hour name="15:35">
-     <Subject name="CE 202 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="2A1CE"></Students><Students name="2A2CE"></Students><Students name="2A3CE"></Students>
+     <Subject name="CE 202 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="2B1CE"></Students><Students name="2B2CE"></Students><Students name="2B3CE"></Students>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="CE 202 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="2B1CE"></Students><Students name="2B2CE"></Students><Students name="2B3CE"></Students>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="CE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
+     
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="CE 202"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Activity_Tag name="Second Year Dept. Lect"></Activity_Tag><Students name="2A1CE"></Students><Students name="2A2CE"></Students><Students name="2A3CE"></Students><Students name="2B1CE"></Students><Students name="2B2CE"></Students><Students name="2B3CE"></Students><Room name="LH-7"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -958,13 +958,13 @@
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="CE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CE-G2"></Students>
+     
     </Hour>
     <Hour name="14:35">
-     <Subject name="CE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CE-G2"></Students>
+     <Subject name="CE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CE-G1"></Students>
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="CE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CE-G1"></Students>
     </Hour>
     <Hour name="16:35">
      
@@ -972,7 +972,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     
+     <Subject name="CE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -984,7 +984,7 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="CE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -1007,10 +1007,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="CE 202"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Activity_Tag name="Second Year Dept. Lect"></Activity_Tag><Students name="2A1CE"></Students><Students name="2A2CE"></Students><Students name="2A3CE"></Students><Students name="2B1CE"></Students><Students name="2B2CE"></Students><Students name="2B3CE"></Students><Room name="LH-7"></Room>
+     <Subject name="CE 202 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="2A1CE"></Students><Students name="2A2CE"></Students><Students name="2A3CE"></Students>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="CE 202 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="2A1CE"></Students><Students name="2A2CE"></Students><Students name="2A3CE"></Students>
     </Hour>
     <Hour name="12:35">
      
@@ -1022,10 +1022,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="CE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CE-G1"></Students>
+     <Subject name="CE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CE-G2"></Students>
     </Hour>
     <Hour name="16:35">
-     <Subject name="CE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CE-G1"></Students>
+     <Subject name="CE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CE-G2"></Students>
     </Hour>
    </Day>
   </Teacher>
@@ -1053,10 +1053,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="CS 204 (Lab)"></Subject><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="Computer Lab-1"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="CS 204 (Lab)"></Subject><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="Computer Lab-1"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -1067,25 +1067,25 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="CS 204"></Subject><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="LH-6"></Room>
+     <Subject name="CS 204"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="CS 308 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="CS 308 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="CS 204 (Lab)"></Subject><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Room name="Computer Lab-1"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     <Subject name="CS 204 (Lab)"></Subject><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Room name="Computer Lab-1"></Room>
+     <Subject name="CS 204 (Lab)"></Subject><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="CS 204 (Lab)"></Subject><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -1111,21 +1111,21 @@
      <Subject name="CS 308"></Subject><Students name="CSE"></Students><Room name="LT-6"></Room>
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="CS 310 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="CS 310 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     <Subject name="CS 308 (Lab)"></Subject><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
-     <Subject name="CS 308 (Lab)"></Subject><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="CS 204"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="11:35">
      
@@ -1154,10 +1154,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="CS 204"></Subject><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="LH-6"></Room>
+     <Subject name="CS 204 (Lab)"></Subject><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="CS 204 (Lab)"></Subject><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -1169,10 +1169,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="CS 310 (Lab)"></Subject><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="CS 310 (Lab)"></Subject><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -1214,13 +1214,13 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="12:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -1237,10 +1237,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -1255,21 +1255,21 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="15:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     
+     <Subject name="PH 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -1301,13 +1301,13 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -1384,10 +1384,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -1482,7 +1482,7 @@
      
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students><Room name="LH-2"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -1511,7 +1511,7 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="LH-2"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -1520,10 +1520,10 @@
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="LH-2"></Room>
     </Hour>
     <Hour name="15:35">
-     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="LH-2"></Room>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -1546,13 +1546,13 @@
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students><Room name="LH-2"></Room>
+     
     </Hour>
     <Hour name="14:35">
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="LH-2"></Room>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -1563,10 +1563,10 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="ME 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="10:35">
-     <Subject name="ME 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="11:35">
      
@@ -1598,13 +1598,13 @@
      
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="LH-2"></Room>
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="LH-2"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -1638,10 +1638,10 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="HS 208 (Tut)"></Subject><Activity_Tag name="2 Year French"></Activity_Tag><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Students name="2B2"></Students>
+     
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="HS 208 (Tut)"></Subject><Activity_Tag name="2 Year French"></Activity_Tag><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Students name="2B2"></Students>
     </Hour>
     <Hour name="16:35">
      
@@ -1719,10 +1719,10 @@
      
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="HS 104 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Activity_Tag name="1 Year French"></Activity_Tag><Students name="1A1"></Students><Students name="1B2"></Students>
     </Hour>
     <Hour name="13:35">
-     <Subject name="HS 104 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Activity_Tag name="1 Year French"></Activity_Tag><Students name="1A1"></Students><Students name="1B2"></Students>
+     
     </Hour>
     <Hour name="14:35">
      
@@ -1779,7 +1779,7 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="HS 208 (Tut)"></Subject><Activity_Tag name="2 Year French"></Activity_Tag><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Students name="2B3"></Students>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -1788,7 +1788,7 @@
      
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="HS 208 (Tut)"></Subject><Activity_Tag name="2 Year French"></Activity_Tag><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Students name="2B3"></Students>
     </Hour>
     <Hour name="16:35">
      
@@ -1802,13 +1802,13 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="HS 104 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Activity_Tag name="1 Year French"></Activity_Tag><Students name="1A3"></Students><Students name="1B1"></Students>
     </Hour>
     <Hour name="11:35">
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="HS 104 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Activity_Tag name="1 Year French"></Activity_Tag><Students name="1A3"></Students><Students name="1B1"></Students>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -1843,10 +1843,10 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="HS 208 (Tut)"></Subject><Activity_Tag name="2 Year French"></Activity_Tag><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Students name="2B3"></Students>
+     
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="HS 208 (Tut)"></Subject><Activity_Tag name="2 Year French"></Activity_Tag><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Students name="2B3"></Students>
     </Hour>
     <Hour name="16:35">
      
@@ -1860,16 +1860,16 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 104 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Activity_Tag name="1 Year French"></Activity_Tag><Students name="1A3"></Students><Students name="1B1"></Students>
+     
     </Hour>
     <Hour name="11:35">
-     
-    </Hour>
-    <Hour name="12:35">
      <Subject name="HS 104 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Activity_Tag name="1 Year French"></Activity_Tag><Students name="1A2"></Students><Students name="1B3"></Students>
     </Hour>
-    <Hour name="13:35">
+    <Hour name="12:35">
      
+    </Hour>
+    <Hour name="13:35">
+     <Subject name="HS 104 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Activity_Tag name="1 Year French"></Activity_Tag><Students name="1A3"></Students><Students name="1B1"></Students>
     </Hour>
     <Hour name="14:35">
      
@@ -1932,13 +1932,13 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -1949,13 +1949,13 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -1972,10 +1972,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -2036,25 +2036,25 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="12:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -2096,7 +2096,7 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="CS 204"></Subject><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="LH-6"></Room>
+     <Subject name="CS 204"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="11:35">
      
@@ -2122,7 +2122,7 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="CS 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CSE"></Students><Room name="LT-6"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -2140,10 +2140,10 @@
      
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="CS 310 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="CS 310 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -2154,16 +2154,16 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="CS 204"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="11:35">
      
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="CS 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CSE"></Students><Room name="LT-6"></Room>
     </Hour>
     <Hour name="13:35">
-     <Subject name="CS 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CSE"></Students><Room name="LT-6"></Room>
+     
     </Hour>
     <Hour name="14:35">
      
@@ -2183,13 +2183,13 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="CS 204"></Subject><Students name="2A1CS"></Students><Students name="2A2CS"></Students><Students name="2A3CS"></Students><Students name="2B1CS"></Students><Students name="2B2CS"></Students><Students name="2B3CS"></Students><Room name="LH-6"></Room>
+     
     </Hour>
     <Hour name="11:35">
      
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="CS 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CSE"></Students><Room name="LT-6"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -2198,10 +2198,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="CS 310 (Lab)"></Subject><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="CS 310 (Lab)"></Subject><Students name="CSE"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -2269,10 +2269,10 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="EE 204"></Subject><Activity_Tag name="Second Year Dept. Lect"></Activity_Tag><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1EE"></Students><Students name="2A2EE"></Students><Students name="2A3EE"></Students><Students name="2B1EE"></Students><Students name="2B2EE"></Students><Students name="2B3EE"></Students><Room name="LH-8"></Room>
     </Hour>
     <Hour name="10:35">
-     <Subject name="EE 204"></Subject><Activity_Tag name="Second Year Dept. Lect"></Activity_Tag><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1EE"></Students><Students name="2A2EE"></Students><Students name="2A3EE"></Students><Students name="2B1EE"></Students><Students name="2B2EE"></Students><Students name="2B3EE"></Students><Room name="LH-8"></Room>
+     
     </Hour>
     <Hour name="11:35">
      
@@ -2301,7 +2301,7 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="EE 204"></Subject><Activity_Tag name="Second Year Dept. Lect"></Activity_Tag><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1EE"></Students><Students name="2A2EE"></Students><Students name="2A3EE"></Students><Students name="2B1EE"></Students><Students name="2B2EE"></Students><Students name="2B3EE"></Students><Room name="LH-8"></Room>
     </Hour>
     <Hour name="11:35">
      
@@ -2330,7 +2330,7 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="EE 204"></Subject><Activity_Tag name="Second Year Dept. Lect"></Activity_Tag><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="2A1EE"></Students><Students name="2A2EE"></Students><Students name="2A3EE"></Students><Students name="2B1EE"></Students><Students name="2B2EE"></Students><Students name="2B3EE"></Students><Room name="LH-8"></Room>
+     
     </Hour>
     <Hour name="11:35">
      
@@ -2361,10 +2361,10 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="ME 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="ME"></Students><Room name="SH-3"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="ME 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-10"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -2396,7 +2396,7 @@
      
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="ME 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-10"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -2471,7 +2471,7 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:25">
-     <Subject name="ME 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="ME"></Students><Room name="SH-3"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
@@ -2483,10 +2483,10 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="ME 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-10"></Room>
+     
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="ME 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-10"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -2531,16 +2531,16 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:25">
-     
+     <Subject name="MA 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="MA 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-1"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -2578,7 +2578,7 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-1"></Room>
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -2601,7 +2601,7 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-1"></Room>
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -2627,16 +2627,16 @@
      
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students><Room name="TR-1"></Room>
+     
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -2661,19 +2661,19 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="LH-1"></Room>
+     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="LH-1"></Room>
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -2684,19 +2684,19 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="LH-1"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -2707,10 +2707,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -2722,10 +2722,10 @@
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="LH-1"></Room>
+     
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students><Room name="LH-1"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -2736,10 +2736,10 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     
+     <Subject name="PH 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -2751,7 +2751,7 @@
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students><Room name="LH-1"></Room>
+     
     </Hour>
     <Hour name="14:35">
      
@@ -2771,25 +2771,25 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="12:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Physics Lab"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -2805,16 +2805,16 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="MA 306C"></Subject><Students name="CSE"></Students><Room name="LT-6"></Room>
+     
     </Hour>
     <Hour name="12:35">
-     
-    </Hour>
-    <Hour name="13:35">
      <Subject name="MA 306C"></Subject><Students name="CSE"></Students><Room name="LT-6"></Room>
     </Hour>
-    <Hour name="14:35">
+    <Hour name="13:35">
      
+    </Hour>
+    <Hour name="14:35">
+     <Subject name="MA 306C"></Subject><Students name="CSE"></Students><Room name="LT-6"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -2975,25 +2975,25 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="LH-6"></Room>
+     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B1"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students><Room name="LH-6"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="16:35">
      
@@ -3001,7 +3001,7 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -3025,24 +3025,24 @@
      
     </Hour>
     <Hour name="16:35">
-     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B1"></Students><Room name="Computer Lab-1"></Room>
+     
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
     </Hour>
     <Hour name="10:35">
-     
-    </Hour>
-    <Hour name="11:35">
      <Subject name="EE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-2"></Room>
     </Hour>
-    <Hour name="12:35">
+    <Hour name="11:35">
      
+    </Hour>
+    <Hour name="12:35">
+     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -3071,10 +3071,10 @@
      
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
     <Hour name="13:35">
-     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-1"></Room>
+     
     </Hour>
     <Hour name="14:35">
      
@@ -3122,13 +3122,13 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="10:35">
-     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Design Lab"></Room>
+     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Design Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Design Lab"></Room>
+     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Design Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -3140,24 +3140,24 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Design Lab"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Design Lab"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
-    </Hour>
-    <Hour name="09:25">
      
     </Hour>
+    <Hour name="09:25">
+     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+    </Hour>
     <Hour name="10:35">
-     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Design Lab"></Room>
+     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Design Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Design Lab"></Room>
+     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Design Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -3177,7 +3177,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
@@ -3212,10 +3212,10 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Design Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Design Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -3402,13 +3402,13 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students><Room name="TR-2"></Room>
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -3419,13 +3419,13 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-2"></Room>
+     
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -3442,16 +3442,16 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students><Room name="TR-2"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -3460,13 +3460,13 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -3477,16 +3477,16 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students><Room name="TR-2"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -3506,25 +3506,25 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-2"></Room>
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="12:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students><Room name="TR-2"></Room>
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -3569,16 +3569,16 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="14:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="15:35">
      
@@ -3589,13 +3589,13 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="11:35">
      
@@ -3607,7 +3607,7 @@
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -3630,7 +3630,7 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -3656,13 +3656,13 @@
      
     </Hour>
     <Hour name="11:35">
-     
-    </Hour>
-    <Hour name="12:35">
      <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="TR-5"></Room>
     </Hour>
-    <Hour name="13:35">
+    <Hour name="12:35">
      
+    </Hour>
+    <Hour name="13:35">
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -3707,16 +3707,16 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:25">
-     
+     <Subject name="MA 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="MA 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-1"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -3754,7 +3754,7 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-1"></Room>
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -3777,7 +3777,7 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-1"></Room>
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -3803,16 +3803,16 @@
      
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students><Room name="TR-1"></Room>
+     
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -3834,10 +3834,10 @@
      <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -3875,21 +3875,21 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="11:35">
      
@@ -3981,7 +3981,7 @@
      <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="LH-1"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -3990,13 +3990,13 @@
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -4010,7 +4010,7 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="LH-1"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -4030,10 +4030,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -4059,36 +4059,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     
-    </Hour>
-    <Hour name="09:25">
      <Subject name="PH 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
-    </Hour>
-    <Hour name="10:35">
-     
-    </Hour>
-    <Hour name="11:35">
-     
-    </Hour>
-    <Hour name="12:35">
-     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="LH-1"></Room>
-    </Hour>
-    <Hour name="13:35">
-     
-    </Hour>
-    <Hour name="14:35">
-     
-    </Hour>
-    <Hour name="15:35">
-     
-    </Hour>
-    <Hour name="16:35">
-     
-    </Hour>
-   </Day>
-   <Day name="Friday">
-    <Hour name="08:25">
-     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -4106,13 +4077,42 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Physics Lab"></Room>
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="08:25">
+     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+    </Hour>
+    <Hour name="09:25">
+     
+    </Hour>
+    <Hour name="10:35">
+     
+    </Hour>
+    <Hour name="11:35">
+     
+    </Hour>
+    <Hour name="12:35">
+     <Subject name="PH 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="LH-1"></Room>
+    </Hour>
+    <Hour name="13:35">
+     
+    </Hour>
+    <Hour name="14:35">
+     
+    </Hour>
+    <Hour name="15:35">
+     
+    </Hour>
+    <Hour name="16:35">
+     
     </Hour>
    </Day>
   </Teacher>
@@ -4128,7 +4128,7 @@
      
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -4137,13 +4137,13 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B3"></Students><Room name="Computer Lab-1"></Room>
+     
     </Hour>
     <Hour name="15:35">
      
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -4151,13 +4151,13 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="10:35">
      <Subject name="EE 308"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -4177,28 +4177,28 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="09:25">
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="EE 308"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="11:35">
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="EE 308"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
+     
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B3"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
     <Hour name="14:35">
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="LH-6"></Room>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -4206,7 +4206,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
@@ -4215,13 +4215,13 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-1"></Room>
+     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="EE 308"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
+     
     </Hour>
     <Hour name="14:35">
      
@@ -4235,7 +4235,7 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:25">
-     
+     <Subject name="EE 308"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -4244,7 +4244,7 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="LH-6"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -4304,16 +4304,16 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="14:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="15:35">
      
@@ -4324,13 +4324,13 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="11:35">
      
@@ -4342,7 +4342,7 @@
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -4365,7 +4365,7 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -4391,13 +4391,13 @@
      
     </Hour>
     <Hour name="11:35">
-     
-    </Hour>
-    <Hour name="12:35">
      <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students><Room name="TR-5"></Room>
     </Hour>
-    <Hour name="13:35">
+    <Hour name="12:35">
      
+    </Hour>
+    <Hour name="13:35">
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -4422,10 +4422,10 @@
      
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -4434,10 +4434,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-2"></Room>
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-2"></Room>
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -4448,10 +4448,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-1"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -4463,10 +4463,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-2"></Room>
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B2"></Students><Room name="Computer Lab-2"></Room>
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -4486,10 +4486,10 @@
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-2"></Room>
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="14:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-2"></Room>
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -4506,16 +4506,16 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students><Room name="TR-1"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-1"></Room>
+     
     </Hour>
     <Hour name="14:35">
      
@@ -4535,22 +4535,22 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="12:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students><Room name="TR-1"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="MA 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students><Room name="TR-1"></Room>
     </Hour>
     <Hour name="16:35">
      
@@ -4618,10 +4618,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -4725,13 +4725,13 @@
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="15:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-2"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="ME 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Material Lab"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -4742,10 +4742,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-2"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -4757,7 +4757,7 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="ME 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B1"></Students><Room name="Material Lab"></Room>
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="16:35">
      
@@ -4765,13 +4765,13 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
-    </Hour>
-    <Hour name="09:25">
      <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
+    <Hour name="09:25">
+     
+    </Hour>
     <Hour name="10:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students><Room name="TR-2"></Room>
+     
     </Hour>
     <Hour name="11:35">
      <Subject name="ME 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
@@ -4789,7 +4789,7 @@
      
     </Hour>
     <Hour name="16:35">
-     <Subject name="ME 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Material Lab"></Room>
+     <Subject name="ME 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B1"></Students><Room name="Material Lab"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -4797,10 +4797,10 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="ME 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="10:35">
-     <Subject name="ME 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="11:35">
      <Subject name="ME 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Material Lab"></Room>
@@ -4829,22 +4829,22 @@
      
     </Hour>
     <Hour name="10:35">
-     
-    </Hour>
-    <Hour name="11:35">
      <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students><Room name="TR-2"></Room>
     </Hour>
-    <Hour name="12:35">
+    <Hour name="11:35">
      
+    </Hour>
+    <Hour name="12:35">
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-2"></Room>
     </Hour>
     <Hour name="13:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-2"></Room>
-    </Hour>
-    <Hour name="14:35">
      
     </Hour>
+    <Hour name="14:35">
+     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-2"></Room>
+    </Hour>
     <Hour name="15:35">
-     <Subject name="PH 101 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-2"></Room>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -4889,10 +4889,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -4904,10 +4904,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -4918,10 +4918,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -4933,10 +4933,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -4976,10 +4976,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -4991,10 +4991,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -5030,7 +5030,7 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:25">
-     
+     <Subject name="CE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -5059,7 +5059,7 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="CE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
@@ -5088,7 +5088,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     
+     <Subject name="CE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -5100,7 +5100,7 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="CE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -5166,7 +5166,7 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="CE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="CE"></Students><Room name="LH-3"></Room>
+     
     </Hour>
     <Hour name="15:35">
      
@@ -5192,7 +5192,7 @@
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="CE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="CE"></Students><Room name="LH-3"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -5267,7 +5267,7 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="CE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="CE"></Students><Room name="LH-3"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -5279,7 +5279,7 @@
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="CE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="CE"></Students><Room name="LH-3"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -5535,10 +5535,10 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="EE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -5610,13 +5610,71 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students>
+     
     </Hour>
     <Hour name="16:35">
      
     </Hour>
    </Day>
    <Day name="Tuesday">
+    <Hour name="08:25">
+     
+    </Hour>
+    <Hour name="09:25">
+     
+    </Hour>
+    <Hour name="10:35">
+     
+    </Hour>
+    <Hour name="11:35">
+     
+    </Hour>
+    <Hour name="12:35">
+     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students>
+    </Hour>
+    <Hour name="13:35">
+     
+    </Hour>
+    <Hour name="14:35">
+     
+    </Hour>
+    <Hour name="15:35">
+     
+    </Hour>
+    <Hour name="16:35">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:25">
+     
+    </Hour>
+    <Hour name="09:25">
+     
+    </Hour>
+    <Hour name="10:35">
+     
+    </Hour>
+    <Hour name="11:35">
+     
+    </Hour>
+    <Hour name="12:35">
+     
+    </Hour>
+    <Hour name="13:35">
+     
+    </Hour>
+    <Hour name="14:35">
+     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students>
+    </Hour>
+    <Hour name="15:35">
+     
+    </Hour>
+    <Hour name="16:35">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
     <Hour name="08:25">
      <Subject name="SE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
@@ -5645,64 +5703,6 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
-    <Hour name="08:25">
-     
-    </Hour>
-    <Hour name="09:25">
-     
-    </Hour>
-    <Hour name="10:35">
-     
-    </Hour>
-    <Hour name="11:35">
-     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B3"></Students>
-    </Hour>
-    <Hour name="12:35">
-     
-    </Hour>
-    <Hour name="13:35">
-     
-    </Hour>
-    <Hour name="14:35">
-     
-    </Hour>
-    <Hour name="15:35">
-     
-    </Hour>
-    <Hour name="16:35">
-     
-    </Hour>
-   </Day>
-   <Day name="Thursday">
-    <Hour name="08:25">
-     
-    </Hour>
-    <Hour name="09:25">
-     
-    </Hour>
-    <Hour name="10:35">
-     
-    </Hour>
-    <Hour name="11:35">
-     
-    </Hour>
-    <Hour name="12:35">
-     
-    </Hour>
-    <Hour name="13:35">
-     
-    </Hour>
-    <Hour name="14:35">
-     
-    </Hour>
-    <Hour name="15:35">
-     
-    </Hour>
-    <Hour name="16:35">
-     
-    </Hour>
-   </Day>
    <Day name="Friday">
     <Hour name="08:25">
      
@@ -5720,13 +5720,13 @@
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B1"></Students>
     </Hour>
     <Hour name="14:35">
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1B2"></Students>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -5748,13 +5748,13 @@
      
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="LH-2"></Room>
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students><Room name="LH-2"></Room>
+     
     </Hour>
     <Hour name="15:35">
      
@@ -5768,7 +5768,7 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -5780,24 +5780,24 @@
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="LH-2"></Room>
+     <Subject name="ME 203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students><Room name="LH-2"></Room>
     </Hour>
     <Hour name="14:35">
      
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Design Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Design Lab"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -5823,13 +5823,13 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
-    </Hour>
-    <Hour name="09:25">
      
     </Hour>
-    <Hour name="10:35">
+    <Hour name="09:25">
      <Subject name="ME 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+    </Hour>
+    <Hour name="10:35">
+     
     </Hour>
     <Hour name="11:35">
      
@@ -5858,10 +5858,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Design Lab"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     <Subject name="ME 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Design Lab"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -5892,7 +5892,7 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 207"></Subject><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -5901,7 +5901,7 @@
      <Subject name="HS 103"></Subject><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="HS 207"></Subject><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -5918,13 +5918,13 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="12:35">
-     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students>
+     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students>
     </Hour>
     <Hour name="13:35">
      
@@ -5933,10 +5933,10 @@
      <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B3"></Students>
     </Hour>
     <Hour name="15:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -5947,25 +5947,25 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students>
+     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students>
     </Hour>
     <Hour name="14:35">
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -5979,13 +5979,13 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students>
+     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students>
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students>
+     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B2"></Students>
     </Hour>
     <Hour name="14:35">
      
@@ -6005,25 +6005,25 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="12:35">
-     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students>
+     
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="HS 207 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students>
     </Hour>
     <Hour name="14:35">
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -6042,19 +6042,19 @@
      
     </Hour>
     <Hour name="12:35">
-     
-    </Hour>
-    <Hour name="13:35">
      <Subject name="CE 308"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="CE"></Students><Room name="SH-1"></Room>
     </Hour>
-    <Hour name="14:35">
+    <Hour name="13:35">
      
+    </Hour>
+    <Hour name="14:35">
+     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G1"></Students><Room name="Civil Departmental Lab"></Room>
     </Hour>
     <Hour name="15:35">
      <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G1"></Students><Room name="Civil Departmental Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G1"></Students><Room name="Civil Departmental Lab"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -6077,13 +6077,13 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G2"></Students><Room name="Civil Departmental Lab"></Room>
+     
     </Hour>
     <Hour name="15:35">
      <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G2"></Students><Room name="Civil Departmental Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G2"></Students><Room name="Civil Departmental Lab"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -6103,13 +6103,13 @@
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G2"></Students><Room name="Civil Departmental Lab"></Room>
     </Hour>
     <Hour name="14:35">
-     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G1"></Students><Room name="Civil Departmental Lab"></Room>
+     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G2"></Students><Room name="Civil Departmental Lab"></Room>
     </Hour>
     <Hour name="15:35">
-     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G1"></Students><Room name="Civil Departmental Lab"></Room>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -6167,10 +6167,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G2"></Students><Room name="Civil Departmental Lab"></Room>
+     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G1"></Students><Room name="Civil Departmental Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G2"></Students><Room name="Civil Departmental Lab"></Room>
+     <Subject name="CE 308 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="CE-G1"></Students><Room name="Civil Departmental Lab"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -6186,10 +6186,10 @@
      <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="12:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -6198,10 +6198,10 @@
      
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -6218,7 +6218,7 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students><Room name="TR-5"></Room>
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -6227,21 +6227,21 @@
      
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="11:35">
      
@@ -6250,13 +6250,13 @@
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-2"></Room>
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="14:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -6273,10 +6273,10 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -6302,10 +6302,10 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="12:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -6336,7 +6336,7 @@
      
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="13:35">
      
@@ -6345,44 +6345,15 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="08:25">
      
-    </Hour>
-    <Hour name="09:25">
-     
-    </Hour>
-    <Hour name="10:35">
-     
-    </Hour>
-    <Hour name="11:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B1"></Students><Room name="Computer Lab-2"></Room>
-    </Hour>
-    <Hour name="12:35">
-     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B1"></Students><Room name="Computer Lab-2"></Room>
-    </Hour>
-    <Hour name="13:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="TR-5"></Room>
-    </Hour>
-    <Hour name="14:35">
-     
-    </Hour>
-    <Hour name="15:35">
-     
-    </Hour>
-    <Hour name="16:35">
-     
-    </Hour>
-   </Day>
-   <Day name="Wednesday">
-    <Hour name="08:25">
-     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -6409,6 +6380,35 @@
      
     </Hour>
    </Day>
+   <Day name="Wednesday">
+    <Hour name="08:25">
+     
+    </Hour>
+    <Hour name="09:25">
+     
+    </Hour>
+    <Hour name="10:35">
+     <Subject name="MA 204"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+    </Hour>
+    <Hour name="11:35">
+     
+    </Hour>
+    <Hour name="12:35">
+     
+    </Hour>
+    <Hour name="13:35">
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-2"></Room>
+    </Hour>
+    <Hour name="14:35">
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A3"></Students><Room name="Computer Lab-2"></Room>
+    </Hour>
+    <Hour name="15:35">
+     
+    </Hour>
+    <Hour name="16:35">
+     
+    </Hour>
+   </Day>
    <Day name="Thursday">
     <Hour name="08:25">
      
@@ -6420,13 +6420,13 @@
      
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="TR-5"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -6449,13 +6449,13 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A3"></Students><Room name="TR-5"></Room>
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B1"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="MA 204 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2B1"></Students><Room name="Computer Lab-2"></Room>
     </Hour>
     <Hour name="13:35">
-     <Subject name="MA 204 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2B1"></Students><Room name="TR-5"></Room>
+     
     </Hour>
     <Hour name="14:35">
      
@@ -6477,13 +6477,13 @@
      
     </Hour>
     <Hour name="10:35">
-     
+     <Subject name="EE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-8"></Room>
     </Hour>
     <Hour name="11:35">
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -6503,7 +6503,7 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -6512,10 +6512,10 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
+     
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="EE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-8"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -6532,7 +6532,7 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="EE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-8"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -6558,7 +6558,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     
+     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -6587,10 +6587,10 @@
    </Day>
    <Day name="Friday">
     <Hour name="08:25">
-     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="EE 310"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -6602,7 +6602,7 @@
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="EE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-8"></Room>
+     
     </Hour>
     <Hour name="14:35">
      
@@ -6794,10 +6794,10 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:25">
-     <Subject name="SE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -6823,10 +6823,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -6852,7 +6852,7 @@
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     <Subject name="ME 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     <Subject name="SE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -6947,10 +6947,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -6962,10 +6962,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -6976,10 +6976,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -6991,10 +6991,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B1"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Language Lab"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -7034,10 +7034,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -7049,10 +7049,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Language Lab"></Room>
+     <Subject name="HS 103 (Tut)"></Subject><Activity_Tag name="HS 101 Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Language Lab"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -7132,7 +7132,7 @@
      
     </Hour>
     <Hour name="13:35">
-     <Subject name="ME 311 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="ME-G2"></Students>
+     
     </Hour>
     <Hour name="14:35">
      <Subject name="ME 311 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="ME-G2"></Students>
@@ -7141,7 +7141,7 @@
      <Subject name="ME 311 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="ME-G2"></Students>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="ME 311 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="ME-G2"></Students>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -7158,10 +7158,10 @@
      
     </Hour>
     <Hour name="12:35">
-     <Subject name="CE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-3"></Room>
+     
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="CE 310 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="ME"></Students><Room name="LH-3"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -7238,7 +7238,7 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="CB 202"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -7267,7 +7267,7 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="CB 202"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -7362,7 +7362,7 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="HS 207"></Subject><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -7371,7 +7371,7 @@
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="HS 207"></Subject><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -7529,19 +7529,19 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="08:25">
-     <Subject name="SE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="12:35">
-     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
+     
     </Hour>
     <Hour name="13:35">
      
@@ -7558,10 +7558,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="PH 101"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -7576,18 +7576,18 @@
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="PH 101 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1B3"></Students><Room name="Physics Lab"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     
+     <Subject name="SE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -7656,7 +7656,7 @@
      
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -7668,7 +7668,7 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students><Room name="LH-6"></Room>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -7679,13 +7679,13 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-1"></Room>
+     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -7694,7 +7694,7 @@
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="15:35">
      
@@ -7705,7 +7705,7 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -7723,18 +7723,18 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A2"></Students><Room name="Computer Lab-1"></Room>
+     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A1"></Students><Room name="LH-6"></Room>
     </Hour>
     <Hour name="15:35">
      
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="EE 203 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="2A1"></Students><Room name="Computer Lab-1"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="08:25">
-     <Subject name="EE 203"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="Second Year Common Lect"></Activity_Tag><Students name="Year-II"></Students><Room name="LLT-2"></Room>
+     
     </Hour>
     <Hour name="09:25">
      
@@ -7743,7 +7743,7 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE203 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="2A2"></Students><Room name="LH-6"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
@@ -7985,7 +7985,7 @@
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-4"></Room>
     </Hour>
     <Hour name="14:35">
      
@@ -8005,10 +8005,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Electronics Lab"></Room>
+     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Electronics Lab"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Electronics Lab"></Room>
+     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Electronics Lab"></Room>
     </Hour>
     <Hour name="12:35">
      <Subject name="EE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
@@ -8017,7 +8017,7 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students><Room name="TR-4"></Room>
+     
     </Hour>
     <Hour name="15:35">
      <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A2"></Students><Room name="Electronics Lab"></Room>
@@ -8034,10 +8034,10 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-4"></Room>
+     <Subject name="EE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-2"></Room>
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-2"></Room>
+     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students><Room name="TR-4"></Room>
     </Hour>
     <Hour name="12:35">
      
@@ -8063,25 +8063,25 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Electronics Lab"></Room>
+     
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A3"></Students><Room name="Electronics Lab"></Room>
+     
     </Hour>
     <Hour name="12:35">
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students><Room name="TR-4"></Room>
     </Hour>
     <Hour name="14:35">
-     <Subject name="EE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students><Room name="TR-4"></Room>
+     
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Electronics Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="EE 102 (Lab)"></Subject><Activity_Tag name="Lab"></Activity_Tag><Students name="1A1"></Students><Room name="Electronics Lab"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -8109,13 +8109,71 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students>
+     
     </Hour>
     <Hour name="16:35">
      
     </Hour>
    </Day>
    <Day name="Tuesday">
+    <Hour name="08:25">
+     
+    </Hour>
+    <Hour name="09:25">
+     
+    </Hour>
+    <Hour name="10:35">
+     
+    </Hour>
+    <Hour name="11:35">
+     
+    </Hour>
+    <Hour name="12:35">
+     
+    </Hour>
+    <Hour name="13:35">
+     
+    </Hour>
+    <Hour name="14:35">
+     
+    </Hour>
+    <Hour name="15:35">
+     
+    </Hour>
+    <Hour name="16:35">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="08:25">
+     
+    </Hour>
+    <Hour name="09:25">
+     
+    </Hour>
+    <Hour name="10:35">
+     
+    </Hour>
+    <Hour name="11:35">
+     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students>
+    </Hour>
+    <Hour name="12:35">
+     
+    </Hour>
+    <Hour name="13:35">
+     
+    </Hour>
+    <Hour name="14:35">
+     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students>
+    </Hour>
+    <Hour name="15:35">
+     
+    </Hour>
+    <Hour name="16:35">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
     <Hour name="08:25">
      <Subject name="SE 102"></Subject><Activity_Tag name="Main Lectures"></Activity_Tag><Activity_Tag name="First Year Common Lect"></Activity_Tag><Students name="Year-I"></Students><Room name="LLT-1"></Room>
     </Hour>
@@ -8144,64 +8202,6 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
-    <Hour name="08:25">
-     
-    </Hour>
-    <Hour name="09:25">
-     
-    </Hour>
-    <Hour name="10:35">
-     
-    </Hour>
-    <Hour name="11:35">
-     
-    </Hour>
-    <Hour name="12:35">
-     
-    </Hour>
-    <Hour name="13:35">
-     
-    </Hour>
-    <Hour name="14:35">
-     
-    </Hour>
-    <Hour name="15:35">
-     
-    </Hour>
-    <Hour name="16:35">
-     
-    </Hour>
-   </Day>
-   <Day name="Thursday">
-    <Hour name="08:25">
-     
-    </Hour>
-    <Hour name="09:25">
-     
-    </Hour>
-    <Hour name="10:35">
-     
-    </Hour>
-    <Hour name="11:35">
-     
-    </Hour>
-    <Hour name="12:35">
-     
-    </Hour>
-    <Hour name="13:35">
-     
-    </Hour>
-    <Hour name="14:35">
-     
-    </Hour>
-    <Hour name="15:35">
-     
-    </Hour>
-    <Hour name="16:35">
-     
-    </Hour>
-   </Day>
    <Day name="Friday">
     <Hour name="08:25">
      
@@ -8210,7 +8210,7 @@
      
     </Hour>
     <Hour name="10:35">
-     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A2"></Students>
+     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A3"></Students>
     </Hour>
     <Hour name="11:35">
      
@@ -8222,7 +8222,7 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="SE 102 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="1A1"></Students>
+     
     </Hour>
     <Hour name="15:35">
      
@@ -8282,39 +8282,39 @@
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE-G1"></Students><Room name="Embedded Lab"></Room>
+     
     </Hour>
     <Hour name="15:35">
      <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE-G1"></Students><Room name="Embedded Lab"></Room>
     </Hour>
     <Hour name="16:35">
-     
+     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="CSE-G1"></Students><Room name="Embedded Lab"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     <Subject name="CS 351"></Subject><Students name="CSE"></Students><Students name="EEE"></Students><Room name="LT-1"></Room>
+     
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="CS 351"></Subject><Students name="CSE"></Students><Students name="EEE"></Students><Room name="LT-1"></Room>
     </Hour>
     <Hour name="10:35">
      
     </Hour>
     <Hour name="11:35">
-     
+     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G2"></Students><Room name="Embedded Lab"></Room>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G2"></Students><Room name="Embedded Lab"></Room>
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G2"></Students><Room name="Embedded Lab"></Room>
+     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G1"></Students><Room name="Embedded Lab"></Room>
     </Hour>
     <Hour name="15:35">
-     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G2"></Students><Room name="Embedded Lab"></Room>
+     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G1"></Students><Room name="Embedded Lab"></Room>
     </Hour>
     <Hour name="16:35">
      
@@ -8325,7 +8325,7 @@
      
     </Hour>
     <Hour name="09:25">
-     
+     <Subject name="CS 351"></Subject><Students name="CSE"></Students><Students name="EEE"></Students><Room name="LT-1"></Room>
     </Hour>
     <Hour name="10:35">
      
@@ -8354,7 +8354,7 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="CS 351"></Subject><Students name="CSE"></Students><Students name="EEE"></Students><Room name="LT-1"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -8372,10 +8372,10 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G1"></Students><Room name="Embedded Lab"></Room>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="CS 351 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G1"></Students><Room name="Embedded Lab"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -8397,13 +8397,13 @@
      
     </Hour>
     <Hour name="13:35">
-     
+     <Subject name="EE 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-7"></Room>
     </Hour>
     <Hour name="14:35">
-     <Subject name="EE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G2"></Students>
+     
     </Hour>
     <Hour name="15:35">
-     <Subject name="EE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G2"></Students>
+     
     </Hour>
     <Hour name="16:35">
      
@@ -8414,7 +8414,7 @@
      <Subject name="EE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="09:25">
-     <Subject name="EE 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-7"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -8432,15 +8432,15 @@
      
     </Hour>
     <Hour name="15:35">
-     <Subject name="EE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G1"></Students>
+     
     </Hour>
     <Hour name="16:35">
-     <Subject name="EE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G1"></Students>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="08:25">
-     
+     <Subject name="EE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
     </Hour>
     <Hour name="09:25">
      
@@ -8449,19 +8449,19 @@
      
     </Hour>
     <Hour name="11:35">
-     <Subject name="EE 312"></Subject><Activity_Tag name="Dept Lect"></Activity_Tag><Students name="EEE"></Students><Room name="SH-2"></Room>
+     <Subject name="EE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G1"></Students>
     </Hour>
     <Hour name="12:35">
-     
+     <Subject name="EE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G1"></Students>
     </Hour>
     <Hour name="13:35">
      
     </Hour>
     <Hour name="14:35">
-     
+     <Subject name="EE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G2"></Students>
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="EE 312 (Lab)"></Subject><Activity_Tag name="Dept Lab"></Activity_Tag><Students name="EEE-G2"></Students>
     </Hour>
     <Hour name="16:35">
      
@@ -8472,7 +8472,7 @@
      
     </Hour>
     <Hour name="09:25">
-     <Subject name="EE 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-7"></Room>
+     
     </Hour>
     <Hour name="10:35">
      
@@ -8519,7 +8519,7 @@
      
     </Hour>
     <Hour name="15:35">
-     
+     <Subject name="EE 312 (Tut)"></Subject><Activity_Tag name="Tut"></Activity_Tag><Students name="EEE"></Students><Room name="LH-7"></Room>
     </Hour>
     <Hour name="16:35">
      
