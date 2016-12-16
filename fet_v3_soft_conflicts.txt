@@ -1,10 +1,11 @@
 ﻿Soft conflicts of fet_v3.fet
-Generated with FET 5.29.6 on 12/16/16 3:36 PM
+Generated with FET 5.29.6 on 12/16/16 5:33 PM
 
-Total soft conflicts: 0.98
+Total soft conflicts: 1.93
 
 Soft conflicts list (in decreasing order):
 
 Space constraint activity tag preferred room broken for activity with id 38 (T:Prof. Sarma,Bhanu,Vinaya,Kaushik, S:EE 102, AT:Main Lectures,First Year Common Lect, St:Year-I) (activity tag of constraint=First Year Common Lect). This increases the conflicts total by 0.98
+Time constraint min days between activities broken: activity with id=455 (T:Sameer, S:CE 308 (Lab), AT:Dept Lab, St:CE-G2) conflicts with activity with id=453 (T:Sameer, S:CE 308 (Lab), AT:Dept Lab, St:CE-G1), being 1 days too close, on days Monday and Monday, conflicts factor increase=0.95.
 
 End of file.
