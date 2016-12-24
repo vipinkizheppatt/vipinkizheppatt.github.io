@@ -1,0 +1,10 @@
+﻿Soft conflicts of fet_v3_5.fet
+Generated with FET 5.29.6 on 12/24/16 9:56 AM
+
+Total soft conflicts: 0.98
+
+Soft conflicts list (in decreasing order):
+
+Space constraint activity tag preferred room broken for activity with id 39 (T:Prof. Sarma,Bhanu,Vinaya,Kaushik, S:EE 102, AT:Main Lectures,First Year Common Lect, St:Year-I) (activity tag of constraint=First Year Common Lect). This increases the conflicts total by 0.98
+
+End of file.
